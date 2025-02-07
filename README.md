@@ -6,3 +6,5 @@ Successfully Click 100 Boxes without letting too many appear on screen at once.
 
 # Losing the game:
 By allowing 10 squares to appear on screen, you will have lost the game.
+
+![](https://github.com/WilliamCook0811/Tracker/blob/main/Trackervideo.gif)
